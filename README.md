@@ -1,2 +1,2 @@
-# Personal-Portfolio-using-PHP
+# Portfolio-Kurt-Veneracion
 http://localhost/my_portfolio/
